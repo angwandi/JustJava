@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+    <string name="Name">Name</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Whipped_cream">Whipped cream</string>
+    <string name="quantity">quantity</string>
+    <string name="order">order</string>
+</resources>
